@@ -1,0 +1,17 @@
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\bin\Debug\net7.0\ECommerceSample.Persistence.deps.json
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\bin\Debug\net7.0\ECommerceSample.Persistence.runtimeconfig.json
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\bin\Debug\net7.0\ECommerceSample.Persistence.dll
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\bin\Debug\net7.0\ECommerceSample.Persistence.pdb
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\bin\Debug\net7.0\ECommerceSample.Domain.dll
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\bin\Debug\net7.0\ECommerceSample.Domain.pdb
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.csproj.AssemblyReference.cache
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.AssemblyInfoInputs.cache
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.AssemblyInfo.cs
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.csproj.CopyComplete
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.dll
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\refint\ECommerceSample.Persistence.dll
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.pdb
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ECommerceSample.Persistence.genruntimeconfig.cache
+C:\Users\OnurGungor\RiderProjects\ECommerceSample\ECommerceSample.Persistence\obj\Debug\net7.0\ref\ECommerceSample.Persistence.dll
