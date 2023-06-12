@@ -522,6 +522,20 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "ECommerceSample.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ECommerceSample.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/ECommerceSample.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerceSample.Application.dll": {}
+        }
+      },
       "ECommerceSample.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1314,6 +1328,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ECommerceSample.Application/1.0.0": {
+      "type": "project",
+      "path": "../ECommerceSample.Application/ECommerceSample.Application.csproj",
+      "msbuildProject": "../ECommerceSample.Application/ECommerceSample.Application.csproj"
+    },
     "ECommerceSample.Domain/1.0.0": {
       "type": "project",
       "path": "../ECommerceSample.Domain/ECommerceSample.Domain.csproj",
@@ -1322,6 +1341,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ECommerceSample.Application >= 1.0.0",
       "ECommerceSample.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
@@ -1358,6 +1378,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\OnurGungor\\Source\\Repos\\eticaretsampleapi\\ECommerceSample.Application\\ECommerceSample.Application.csproj": {
+              "projectPath": "C:\\Users\\OnurGungor\\Source\\Repos\\eticaretsampleapi\\ECommerceSample.Application\\ECommerceSample.Application.csproj"
+            },
             "C:\\Users\\OnurGungor\\Source\\Repos\\eticaretsampleapi\\ECommerceSample.Domain\\ECommerceSample.Domain.csproj": {
               "projectPath": "C:\\Users\\OnurGungor\\Source\\Repos\\eticaretsampleapi\\ECommerceSample.Domain\\ECommerceSample.Domain.csproj"
             }

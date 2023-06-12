@@ -616,6 +616,20 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "ECommerceSample.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ECommerceSample.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/ECommerceSample.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerceSample.Application.dll": {}
+        }
+      },
       "ECommerceSample.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -630,6 +644,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "ECommerceSample.Application": "1.0.0",
           "ECommerceSample.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.Extensions.Configuration": "7.0.0",
@@ -1740,6 +1755,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ECommerceSample.Application/1.0.0": {
+      "type": "project",
+      "path": "../ECommerceSample.Application/ECommerceSample.Application.csproj",
+      "msbuildProject": "../ECommerceSample.Application/ECommerceSample.Application.csproj"
     },
     "ECommerceSample.Domain/1.0.0": {
       "type": "project",
